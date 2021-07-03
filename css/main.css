@@ -1,0 +1,41 @@
+h1{
+     text-align: center;
+     color: slateblue;
+     }
+
+.blog{
+    background-color: rgb(93, 192, 231);
+    
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+    border: 5px ridge red;
+    
+}
+
+.blog-titel{
+    text-align: center;
+    font-size: 2em;
+    font-display: 500px;
+}
+
+.aurther-id{
+    color: rgb(248, 238, 239);
+}
+
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+
+}
+
+.blog p{
+    text-align: justify;
+}
